@@ -174,8 +174,8 @@ function App() {
                 <a href="https://github.com/abdullah-webdev01" target="_blank" rel="noreferrer"><FaGithub /> GitHub</a>
                 <a href="https://www.linkedin.com/in/abdullah-webdev01/" target="_blank" rel="noreferrer"><FaLinkedin /> LinkedIn</a>
                 
-                {/* ===== INSTAGRAM & FACEBOOK (Contact Section mein bhi daal diye) ===== */}
-                <a href="https://instagram.com/your-username" target="_blank" rel="noreferrer"><FaInstagram /> Instagram</a>
+                
+                <a href="https://instagram.com/gujjar123_786" target="_blank" rel="noreferrer"><FaInstagram /> Instagram</a>
                 <a href="https://www.facebook.com/abdullah.gujjar.503645" target="_blank" rel="noreferrer"><FaFacebook /> Facebook</a>
               </div>
               
@@ -193,7 +193,7 @@ function App() {
             <div style={{ marginBottom: '10px' }}>
               <a href="https://github.com/abdullah-webdev01" target="_blank" rel="noreferrer" style={{ color: '#a0a0a0', margin: '0 10px', fontSize: '1.2rem' }}><FaGithub /></a>
               <a href="https://www.linkedin.com/in/abdullah-webdev01/" target="_blank" rel="noreferrer" style={{ color: '#a0a0a0', margin: '0 10px', fontSize: '1.2rem' }}><FaLinkedin /></a>
-              <a href="https://instagram.com/your-username" target="_blank" rel="noreferrer" style={{ color: '#a0a0a0', margin: '0 10px', fontSize: '1.2rem' }}><FaInstagram /></a>
+              <a href="https://instagram.com/gujjar123_786" target="_blank" rel="noreferrer" style={{ color: '#a0a0a0', margin: '0 10px', fontSize: '1.2rem' }}><FaInstagram /></a>
               <a href="https://www.facebook.com/abdullah.gujjar.503645" target="_blank" rel="noreferrer" style={{ color: '#a0a0a0', margin: '0 10px', fontSize: '1.2rem' }}><FaFacebook /></a>
             </div>
             <span>© 2025 Abdullah. Built with React </span>
